@@ -25,3 +25,4 @@ class SanctuaryGateway {
     }
 }
 (new SanctuaryGateway())->unlock();
+// 1
